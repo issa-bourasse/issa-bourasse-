@@ -11,4 +11,4 @@ I'm a results-driven front-end developer with a passion for crafting seamless an
 - TypeScript (TS)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issa-bourasse-&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issa-bourasse&size_weight=0.5&count_weight=0.5)
