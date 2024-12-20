@@ -37,6 +37,7 @@
   - Community Engagement App for Hackathon Green Gafsa 2024
 
 ![Project Showcase](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+![Project Showcase](https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif)
 
 
 ---
