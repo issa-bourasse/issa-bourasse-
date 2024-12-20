@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/issa-bourasse-3b488328b/" target="_blank">Issa Bourasse</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/issa-bourasse/" target="_blank">Issa Bourasse</a> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Final+Year+Student+%7C+MERN+Stack+Dev;AI+Enthusiast+%7C+Freelancer;Building+Future-Tech+Projects" alt="Typing SVG" />
@@ -32,8 +32,12 @@
   - E-commerce Website
   - Article Publishing Website
   - OpenAI & Google Gemini Clones
+  - AI Lawyer Platform with Voice Assistance (GPT-4 & Gemini API)
+  - Quiz AI Generator (File-based, Flask + NestJS backend)
+  - Community Engagement App for Hackathon Green Gafsa 2024
 
 ![Project Showcase](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+
 
 ---
 
